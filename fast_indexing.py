@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 '''
 df, md, dfidx = load_data(load_only_train=False)
-
+generator_demo(df, md, dfidx)
 '''
 
 # df, md, dfidx = load_data()
